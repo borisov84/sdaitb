@@ -1,1 +1,1 @@
-bot: python3 sdaitb.py
+sdaitb: python3 sdaitb.py
